@@ -1,1 +1,1 @@
-a readme file for the first directory in this repository
+Starting to code today, so cool
